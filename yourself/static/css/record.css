@@ -1,0 +1,16 @@
+body{
+  background: white;
+  color: black;
+}
+th,table{
+  margin: :auto;
+  border: 2px solid black;
+
+}
+td,table{
+  margin: :auto;
+  border: 2px solid black;
+  color: red;
+  background: yellow;
+
+}
